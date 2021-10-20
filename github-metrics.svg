@@ -1554,9 +1554,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.3821327566129" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="193.3821327566129" y="0" width="179.45433372151055" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="372.83646647812344" y="0" width="87.16353352187656" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.73897952099964" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="201.73897952099964" y="0" width="187.2093023255814" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="388.94828184658104" y="0" width="71.05171815341896" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2229,7 +2229,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/10/2021, 17:14  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 20/10/2021, 18:08  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
