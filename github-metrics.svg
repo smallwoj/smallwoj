@@ -1608,16 +1608,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 17 edited files from 17 commits over last 14 days
+            estimation from 20 edited files from 18 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="371.32207338380897" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="371.32207338380897" y="0" width="60.54746651135702" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="431.869539895166" y="0" width="28.13046010483401" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.88283510125365" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="261.88283510125365" y="0" width="180.65091610414657" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="442.5337512054002" y="0" width="17.46624879459981" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2290,7 +2290,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2021, 19:06:59  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 29 Nov 2021, 20:08:44  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
