@@ -281,16 +281,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 109 edited files from 60 commits over last 14 days</small>
+                <small>estimation from 109 edited files from 58 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="407.86558950942515" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="407.86558950942515" y="0" width="29.810326659641728" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="437.67591616906685" y="0" width="19.711977520196697" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.3878936892636" y="0" width="2.6121063107364475" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="408.0566943891297" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="408.0566943891297" y="0" width="29.608761860138223" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="437.66545624926795" y="0" width="19.721213541056574" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="457.3866697903245" y="0" width="2.6133302096755298" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -660,7 +660,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.32m out of 84m users</span>
+                                    <span class="gh">ranked 1.33m out of 84m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -912,7 +912,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Feb 2022, 17:12:39  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 1 Feb 2022, 18:10:00  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
