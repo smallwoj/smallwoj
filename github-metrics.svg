@@ -287,10 +287,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.3441930282982" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="387.3441930282982" y="0" width="30.45866459109357" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="417.8028576193918" y="0" width="23.476955579029298" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="441.2798131984211" y="0" width="18.72018680157892" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.75491033304866" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="396.75491033304866" y="0" width="31.19043552519214" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="427.94534585824084" y="0" width="19.16994022203245" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="447.1152860802733" y="0" width="12.88471391972673" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -307,15 +307,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Vue
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Makefile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Vue
                     </div>
                 </div>
             </section>
@@ -912,7 +912,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Feb 2022, 14:07:39  with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 3 Feb 2022, 15:08:10  with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
