@@ -287,10 +287,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="370.2650420801407" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="370.2650420801407" y="0" width="34.40899384499435" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="404.674035925135" y="0" width="30.768747644768244" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="435.44278356990327" y="0" width="24.557216430096723" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="370.0326387145368" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="370.0326387145368" y="0" width="34.38739643484811" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="404.4200351493849" y="0" width="31.038162189304543" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="435.45819733868944" y="0" width="24.54180266131057" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -660,7 +660,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.33m out of 84m users</span>
+                                    <span class="gh">ranked 1.34m out of 84m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -912,7 +912,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2022, 15:08:20  with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 8 Feb 2022, 16:11:01  with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
