@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 Some cool metrics for your perusal...
 
 ![Metrics](https://github.com/smallwoj/smallwoj/blob/main/github-metrics.svg)
+
+More at https://metrics.lecoq.io/about/smallwoj
