@@ -281,15 +281,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 7.96kb of code in 18 edited files across 40 commits over last 11 days</small>
+                <small>estimation from 7.98kb of code in 18 edited files across 41 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="213.1453034500126" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="213.1453034500126" y="0" width="198.4915638378242" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.6368672878368" y="0" width="48.363132712163186" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.52981795354677" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="212.52981795354677" y="0" width="198.55367231638417" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.08349026993096" y="0" width="48.91650973006905" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -736,7 +736,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.13m out of 330m repositories</span>
+                                    <span class="gh">ranked 2.07m out of 330m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -905,7 +905,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2022, 20:10:44  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 29 Jul 2022, 21:08:45  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
