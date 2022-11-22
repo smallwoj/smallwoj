@@ -281,19 +281,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 481kb of code in 504 edited files across 229 commits over last 12 days</small>
+                <small>estimation from 500kb of code in 540 edited files across 252 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="213.54238473767884" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="213.54238473767884" y="0" width="114.27014308426072" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="327.81252782193957" y="0" width="110.22448330683625" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.0370111287758" y="0" width="10.94054054054054" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="448.97755166931637" y="0" width="6.853926868044515" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="455.8314785373609" y="0" width="2.9691573926868045" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.8006359300477" y="0" width="1.1993640699523054" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.60459635984614" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="190.60459635984614" y="0" width="145.15988693204028" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="335.76448329188645" y="0" width="101.78937410426497" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.5538573961514" y="0" width="9.745597090595986" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="447.29945448674744" y="0" width="6.105329942049838" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="453.4047844287972" y="0" width="5.526847975709649" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.9316324045069" y="0" width="1.0683675954931429" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -304,15 +304,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -933,7 +933,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2022, 19:08:24  with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 22 Nov 2022, 20:09:50  with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
