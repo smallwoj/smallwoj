@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -281,17 +281,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 237kb of code in 463 edited files across 360 commits over last 14 days</small>
+                <small>estimation from 189kb of code in 398 edited files across 344 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="215.9264108706277" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="215.9264108706277" y="0" width="151.90483373659725" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="367.83124460722496" y="0" width="78.82653215149851" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.6577767587235" y="0" width="12.237541558308344" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.89531831703187" y="0" width="1.1046816829681834" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="254.44252217145927" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="254.44252217145927" y="0" width="106.82545014780972" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="361.267972319269" y="0" width="95.78439935501208" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.0523716742811" y="0" width="1.5375571083042192" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.58992878258533" y="0" width="1.4100712174146735" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -314,15 +314,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Dockerfile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
                     </div>
                 </div>
             </section>
@@ -919,7 +919,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2023, 21:08:25  with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 3 Jan 2023, 22:08:22  with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
