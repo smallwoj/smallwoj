@@ -281,17 +281,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 633kb of code in 903 edited files across 546 commits over last 14 days</small>
+                <small>estimation from 632kb of code in 902 edited files across 544 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="243.66581490664373" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="243.66581490664373" y="0" width="123.08761954156758" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="366.7534344482113" y="0" width="85.48262536052218" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.23605980873344" y="0" width="7.451171380863229" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.6872311895967" y="0" width="0.3127688104032788" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="243.62510022979708" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="243.62510022979708" y="0" width="123.11078496339536" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="366.7358851931924" y="0" width="85.49871342106637" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.2345986142588" y="0" width="7.452573711404609" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.6871723256634" y="0" width="0.31282767433658554" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -380,7 +380,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.8062970568104078 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.8487337440109548 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -750,7 +750,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.39m out of 381m repositories</span>
+                                    <span class="gh">ranked 2.36m out of 381m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -919,7 +919,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2023, 16:11:56  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 3 Mar 2023, 17:08:40  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
