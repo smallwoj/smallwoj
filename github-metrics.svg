@@ -281,17 +281,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 273kb of code in 411 edited files across 246 commits over last 14 days</small>
+                <small>estimation from 274kb of code in 414 edited files across 248 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.46396403452434" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="439.46396403452434" y="0" width="9.857297263428311" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="449.3212612979527" y="0" width="5.191654004605335" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.512915302558" y="0" width="2.7597550086937455" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="457.2726703112517" y="0" width="2.727329688748257" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.53161592505853" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="439.53161592505853" y="0" width="9.824824355971897" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="449.3564402810304" y="0" width="5.174551131928181" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.5309914129586" y="0" width="2.750663544106167" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="457.2816549570648" y="0" width="2.718345042935207" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -750,7 +750,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.43m out of 403m repositories</span>
+                                    <span class="gh">ranked 2.31m out of 403m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -919,7 +919,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2023, 04:09:42  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 May 2023, 05:08:02  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
