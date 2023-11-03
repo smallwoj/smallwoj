@@ -281,29 +281,29 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 91.8kb of code in 142 edited files across 81 commits over last 14 days</small>
+                <small>estimation from 65.2kb of code in 109 edited files across 63 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.56300598380852" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="228.56300598380852" y="0" width="160.15905491024287" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="388.7220608940514" y="0" width="66.00052798310455" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.722588877156" y="0" width="5.277411122844069" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.83448715754758" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="200.83448715754758" y="0" width="170.04091538449572" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="370.8754025420433" y="0" width="81.66057343767015" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.53597597971344" y="0" width="7.464024020286564" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Vue
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -778,7 +778,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.56m out of 73.8m repositories</span>
+                                    <span class="gh">ranked 2.56m out of 71.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -912,7 +912,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2023, 20:09:43  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2023, 21:06:47  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
