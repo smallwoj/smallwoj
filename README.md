@@ -1,6 +1,4 @@
 ### Howdy! 🤠
-I'm a 5th year Computer Science student at the University of Manitoba! 
-
 I'm a full-stack developer and a hobby game developer with an interest in making cool things!
 
 
