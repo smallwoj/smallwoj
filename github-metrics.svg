@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            116 Pull requests opened
+                            117 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -281,20 +281,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 342kb of code in 558 edited files across 253 commits over last 14 days</small>
+                <small>estimation from 345kb of code in 566 edited files across 255 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="128.522149501643" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="128.522149501643" y="0" width="115.00814700577104" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="243.53029650741405" y="0" width="84.48068968899692" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="328.01098619641095" y="0" width="47.30026212105524" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="375.3112483174662" y="0" width="37.14031923183817" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="412.4515675493044" y="0" width="28.04826079137671" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="440.49982834068106" y="0" width="11.57125496585887" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.07108330653995" y="0" width="7.928916693460053" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.39928618751469" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="127.39928618751469" y="0" width="112.75854330961081" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="240.15782949712553" y="0" width="89.49605693402577" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="329.6538864311513" y="0" width="47.31390652048471" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="376.96779295163606" y="0" width="36.41384026842769" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="413.38163322006375" y="0" width="27.49962599645231" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="440.881259216516" y="0" width="11.3449167574961" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.22617597401216" y="0" width="7.773824025987903" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -484,7 +484,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="119.86666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="120.38333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -512,10 +512,10 @@
                                     <span class="prefix">Great</span>
                                     contributor
                                     <div class="value-wrapper">
-                                        <div class="value">432</div>
+                                        <div class="value">433</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 432 pull requests</div>
+                                <div class="text">Opened 433 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -842,7 +842,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.67m out of 202m repositories</span>
+                                    <span class="gh">ranked 2.67m out of 197m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -940,7 +940,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2024, 15:10:52  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2024, 16:11:39  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
