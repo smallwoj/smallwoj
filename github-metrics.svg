@@ -281,20 +281,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 313kb of code in 362 edited files across 246 commits over last 14 days</small>
+                <small>estimation from 494kb of code in 416 edited files across 288 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="245.87472365512158" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="245.87472365512158" y="0" width="144.10316875460575" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="389.9778924097273" y="0" width="51.09064112011791" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="441.0685335298452" y="0" width="5.924834193072955" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="446.9933677229181" y="0" width="5.087693441414886" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="452.081061164333" y="0" width="3.8511422254974206" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.9322033898305" y="0" width="3.2011790714812083" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.13338246131167" y="0" width="0.866617538688283" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.39938265814362" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="171.39938265814362" y="0" width="141.3793704185149" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="312.7787530766585" y="0" width="101.09343661078428" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="413.8721896874428" y="0" width="35.61530936331596" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.4874990507588" y="0" width="4.130204634084238" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="453.61770368484304" y="0" width="3.546633432054426" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="457.1643371168975" y="0" width="2.2315433993111857" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.3958805162087" y="0" width="0.6041194837914261" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -302,6 +302,12 @@
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        RenderScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -326,12 +332,6 @@
                             <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C#
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        RenderScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -842,7 +842,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.68m out of 200m repositories</span>
+                                    <span class="gh">ranked 2.68m out of 197m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -940,7 +940,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 May 2024, 17:08:33  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 May 2024, 18:10:39  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
