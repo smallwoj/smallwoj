@@ -281,20 +281,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 186kb of code in 233 edited files across 149 commits over last 14 days</small>
+                <small>estimation from 188kb of code in 234 edited files across 151 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.31939032775614" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="273.31939032775614" y="0" width="73.60913744365497" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="346.9285277714111" y="0" width="29.92952097180839" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="376.8580487432195" y="0" width="24.890747956299183" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="401.74879669951866" y="0" width="21.121552448620978" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="422.87034914813967" y="0" width="16.12231644892658" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="438.9926655970662" y="0" width="16.043242417296966" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="455.03590801436314" y="0" width="4.964091985636794" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.33004539595356" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="267.33004539595356" y="0" width="71.99611425582395" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="339.3261596517776" y="0" width="34.42545162435315" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="373.75161127613075" y="0" width="29.273664742476043" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="403.0252760186068" y="0" width="20.658708363690707" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="423.6839843822975" y="0" width="15.7690223990734" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="439.45300678137096" y="0" width="15.691681144800016" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="455.14468792617095" y="0" width="4.85531207382914" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -311,15 +311,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Lua
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Lua
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -842,7 +842,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.72m out of 214m repositories</span>
+                                    <span class="gh">ranked 2.72m out of 209m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -940,7 +940,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2024, 19:07:51  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Aug 2024, 20:11:11  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
