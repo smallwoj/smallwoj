@@ -281,16 +281,23 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.90kb of code in 5 edited files across 19 commits over last 14 days</small>
+                <small>estimation from 6.08kb of code in 9 edited files across 24 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.24272687798526" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="427.24272687798526" y="0" width="32.75727312201476" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.53125" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="223.53125" y="0" width="219.62946428571428" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="443.1607142857143" y="0" width="16.839285714285715" height="8" fill="#000080"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        RenderScript
+                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
@@ -756,7 +763,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.82m out of 228m repositories</span>
+                                    <span class="gh">ranked 2.82m out of 226m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -854,7 +861,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2025, 15:10:48  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jan 2025, 16:11:48  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
